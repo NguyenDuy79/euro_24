@@ -1,0 +1,1 @@
+enum DecodeResponseType { list, object }
